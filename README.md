@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu trabalho com back-end ...
 - 🌱 Estudando Microservices e armazanemento em cachê(Redis) ...
-- 😄 Pronouns: E/dele
+- 😄 Pronouns: e/dele
 
 <div align="center">
   <a href="https://github.com/mateusdiniz2">
